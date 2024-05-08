@@ -1,0 +1,4 @@
+/home/prasanna/Documents/PROJECT/homework_1/build/CMakeFiles/rebuild_cache.dir
+/home/prasanna/Documents/PROJECT/homework_1/build/CMakeFiles/main.dir
+/home/prasanna/Documents/PROJECT/homework_1/build/CMakeFiles/edit_cache.dir
+/home/prasanna/Documents/PROJECT/homework_1/build/CMakeFiles/my_viewer.dir

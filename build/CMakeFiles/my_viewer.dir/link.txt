@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libmy_viewer.so -o libmy_viewer.so CMakeFiles/my_viewer.dir/my_viewer/my_viewer.cpp.o  -Wl,-rpath,/home/prasanna/Documents/PROJECT/homework_1/open3d/lib ../open3d/lib/libOpen3D.so 
