@@ -1,0 +1,8 @@
+/home/prasanna/Documents/PROJECT/homework2/build/CMakeFiles/rebuild_cache.dir
+/home/prasanna/Documents/PROJECT/homework2/build/CMakeFiles/edit_cache.dir
+/home/prasanna/Documents/PROJECT/homework2/build/app/CMakeFiles/rebuild_cache.dir
+/home/prasanna/Documents/PROJECT/homework2/build/app/CMakeFiles/edit_cache.dir
+/home/prasanna/Documents/PROJECT/homework2/build/app/CMakeFiles/main.dir
+/home/prasanna/Documents/PROJECT/homework2/build/my_vector/CMakeFiles/rebuild_cache.dir
+/home/prasanna/Documents/PROJECT/homework2/build/my_vector/CMakeFiles/edit_cache.dir
+/home/prasanna/Documents/PROJECT/homework2/build/my_vector/CMakeFiles/my_vector.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/prasanna/Documents/PROJECT/homework2/my_vector/myvector.cpp
+myvector.hpp
+/home/prasanna/Documents/PROJECT/homework2/my_vector/myvector.hpp
+math.h
+-
+tuple
+-
+algorithm
+-
+
+/home/prasanna/Documents/PROJECT/homework2/my_vector/myvector.hpp
+tuple
+-
+vector
+-
+
